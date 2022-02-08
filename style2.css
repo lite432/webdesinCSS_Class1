@@ -1,0 +1,41 @@
+.head1{
+        background: yellow;
+        color:brown;
+}
+.outerbox{
+background: rgb(0, 38, 255);
+height: 1000px;
+width: 100%;
+padding-left: 10px;
+padding-top: 10px;
+}
+.boxone{
+        height:30%;
+        width: 40%;
+       margin:10px;
+background:cyan;
+float: left;
+}
+.boxtwo{
+        height: 30%;
+        width:40%;   
+        background: red;
+        float: left;margin:10px;
+}
+ 
+
+.boxthree{
+        height: 30%;
+        width:40%;
+      
+        background: yellowgreen;
+ float:left;margin:10px;
+}
+.boxfour{
+        height: 30%;
+        width:40%;
+       
+        background: purple;
+float: left;margin:10px;
+ 
+}
