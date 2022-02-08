@@ -1,6 +1,6 @@
 button{
     background-color: gold;
-    color:violet;
+    color:hotpink;
 }
 #para1{
     color:black;
@@ -9,4 +9,8 @@ button{
 #para2{
     color: whitesmoke;
     background-color: black;
+}
+.content{
+    color:gray;
+    background-color: pink;
 }
