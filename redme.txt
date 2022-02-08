@@ -1,3 +1,5 @@
 colorpicker
 class vs id class evideyum use cheyyam but id single aayi mathrame use cheyyan pattu
 div :division
+ margin : for alignment let/right /top /botom 
+ padding :content allignment div
